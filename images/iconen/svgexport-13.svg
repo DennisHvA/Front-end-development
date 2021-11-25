@@ -1,0 +1,20 @@
+<svg xmlns:xlink="http://www.w3.org/1999/xlink" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 80 80" width="80"  height="80" >
+  <g>
+    <g>
+      <circle class="head" cx="40" cy="40" r="40" fill="#FFFFFF"></circle>
+    </g>
+    <path class="head-outline" d="M40,1.6c21,0,38,17,38,38s-17,38-38,38s-38-17-38-38S19,1.6,40,1.6 M40-0.4
+    c-22.1,0-40,17.9-40,40s17.9,40,40,40s40-17.9,40-40S62.1-0.4,40-0.4L40-0.4z" stroke="#727272" fill="#727272" stroke-width="2px"></path>
+    <g>
+      <circle class="eyes" cx="62.1" cy="41.4" r="3.9" fill="#727272"></circle>
+      <circle class="eyes" cx="17.9" cy="41.4" r="3.9" fill="#727272"></circle>
+    </g>
+    <g>
+      <path class="eyebrows" d="M23.2 37h-9.6c-.7 0-1.2-.8-1.2-1.5S13 34 13.7 34h9.6c.7 0 1.2.8 1.2 1.5s-.6 1.5-1.3 1.5z" fill="#727272"></path>
+      <path class="eyebrows" d="M66.3 37h-9.6c-.7 0-1.2-.8-1.2-1.5S56 34 56.7 34h9.6c.7 0 1.2.8 1.2 1.5S67 37 66.3 37z" fill="#727272"></path>
+    </g>
+    <g>
+      <path class="mouth" d="M48.4 58H31.6c-.7 0-1.2-.3-1.2-1s.5-1 1.2-1h16.8c.7 0 1.2.3 1.2 1s-.6 1-1.2 1z" fill="#727272"></path>
+    </g>
+  </g>
+</svg>

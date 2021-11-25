@@ -56,13 +56,14 @@ daily paper shirt
 <summary>uitwerken na afloop 2e werkgroep</summary>
 
 ### de hele pagina: 
-<img src="images/dummy-plaatje.jpg" width="375px" alt="breakdown van de hele pagina">
+<img src="images/Breakdownschets-01.jpeg" width="375px" alt="breakdown van de hele pagina">
+<img src="images/Breakdownschets-02.jpeg" width="375px" alt="breakdown van de hele pagina">
 
 ### dynamisch deel (bijv menu): 
-<img src="images/dummy-plaatje.jpg" width="375px" alt="breakdown van een dynamisch deel">
+<img src="" width="375px" alt="breakdown van een dynamisch deel">
 
 ### wellicht nog een dynamisch deel (bijv filter): 
-<img src="images/dummy-plaatje.jpg" width="375px" alt="breakdown van nog een dynamisch deel">
+<img src="" width="375px" alt="breakdown van nog een dynamisch deel">
 
 </details>
 
@@ -76,7 +77,10 @@ daily paper shirt
 <summary>uitwerken voor 1e voortgang</summary>
 
 ### Stand van zaken
-hier dit ging goed & dit was lastig (neem ook screenshots op van delen van je website en code)
+Ik had moeite om alle content te verzamelen. Ik ben een tijd bezig geweest om te zoeken naar manieren om de afbeeldingen en iconen te kunnen downloaden. Ik heb mijn HTML voor een groot deel af, alleen nog enkele afbeeldingen/iconen erin zetten en de nav. Styling ben ik nog niet aan toegekomen.
+
+<img src="images/voortgang-1.png" width="375px" alt="breakdown van nog een dynamisch deel">
+<img src="images/voortgang-2.png" width="375px" alt="breakdown van nog een dynamisch deel">
 
 
 ### Agenda voor meeting
@@ -231,7 +235,7 @@ hier screenshot(s) van je eindresultaat
 
 Nb. Wees specifiek ('css-tricks' als bron is bijv. niet specifiek genoeg).
 
-1. https://www.youtube.com/watch?v=Eyndz5R-Vkg
+1. bron 1
 2. bron 2
 3. ...
 
