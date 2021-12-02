@@ -96,8 +96,8 @@ samen met je groepje opstellen
 ### Verslag van meeting
 hier na afloop snel de uitkomsten van de meeting vastleggen
 
-- punt 1
-- punt 2
+- HTMl zag er goed uit
+- beginnen aan de styling, vooral focus op de header
 - nog een punt
 - ...
 
@@ -113,7 +113,9 @@ hier na afloop snel de uitkomsten van de meeting vastleggen
 <summary>uitwerken voor 2e voortgang</summary>
 
 ### Stand van zaken
-hier dit ging goed & dit was lastig (neem ook screenshots op van delen van je website en code)
+Deze week was ik begonnen met de styling. Tijdens het stylen moest ik regelmatig nog mijn html veranderen wat best wat tijd kostte. Ik had soms nog moeite met dingen op een bepaalde plek krijgen en standaard styling verwijderen. Verder bleef ik lang hangen bij hoe ik het menu zou moeten maken. Dit heb ik voor nu overgeslagen en ik ben van boven naar beneden bezig met stylen. Deze week loop ik iets achter omdat ik het nog lastig vind.
+
+<img src="images/voortgang_week2.png" width="375px" alt="breakdown van nog een dynamisch deel">
 
 
 ### Agenda voor meeting
@@ -121,9 +123,9 @@ samen met je groepje opstellen
 
 | student 1      | student 2          | student 3    | student 4        |
 | ---            | ---                | ---          | ---              |
-| dit bespreken  | en dit             | en ik dit    | en dan ik dat    |
-| en dat ook nog | dit als er tijd is | nog een punt | dit wil ik zeker |
-| ...            | ...                | ...          | ...              |
+| nav            | en dit             | en ik dit    | en dan ik dat    |
+| pop-upps       | dit als er tijd is | nog een punt | dit wil ik zeker |
+| html           | ...                | ...          | ...              |
 
 
 ### Verslag van meeting
@@ -133,7 +135,6 @@ hier na afloop snel de uitkomsten van de meeting vastleggen
 - punt 2
 - nog een punt
 - ...
-
 </details>
 
 
