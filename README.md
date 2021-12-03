@@ -131,10 +131,13 @@ samen met je groepje opstellen
 ### Verslag van meeting
 hier na afloop snel de uitkomsten van de meeting vastleggen
 
-- punt 1
-- punt 2
-- nog een punt
-- ...
+- sommige articles zijn sections
+- gebruik van em ipv %
+- meer var gebruiken
+- gebruik van a tag
+- nav als geheel maken
+- gebruik meer h ipv p
+- vinkjes als ul
 </details>
 
 
