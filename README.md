@@ -131,10 +131,11 @@ samen met je groepje opstellen
 ### Verslag van meeting
 hier na afloop snel de uitkomsten van de meeting vastleggen
 
-- punt 1
-- punt 2
-- nog een punt
-- ...
+- nav maken
+- geen buttons maar a
+- geen %
+- time tag
+- list in de footer
 </details>
 
 
@@ -149,34 +150,16 @@ hier na afloop snel de uitkomsten van de meeting vastleggen
 ### Bevindingen
 Lijst met je bevindingen die in de test naar voren kwamen:
 
-#### Titel eerste bevinding
-Hier korte omschrijving (met indien nodig een afbeelding)
-
-Hier een omschrijving van hoe het opgelost kan worden (met indien nodig een afbeelding)
+#### alt tekst
+Ik heb veel engelse teksten gebruikt terwijl het een nederlandse pagina wordt dus ja... In het engels werken gaat voor mij makkelijker dus hier had ik niet over nagedacht. Dus ik ga nog langs alle alt teksten.
 
 
-#### Titel tweede bevinding. 
-Hier korte omschrijving (met indien nodig een afbeelding)
+#### Geen knoppen of links 
+De screenreader las bijvoorbeeld het winkelmandje als een list item dus dit moet ik gaan veranderen. Ook bij social media iconen en manieren om contact te zoeken las hij deze als list item. Ook kwam ik erachter dat hij elk artikel wel goed uitleest en ook op de goede volgorde, alleen gaf hij niet aan dat je erop kon klikken. Dus hier moet ook nog een a omheen gewrapt worden
 
-Hier een omschrijving van hoe het opgelost kan worden (met indien nodig een afbeelding)
-
-
-#### Titel volgende bevinding. 
-Hier korte omschrijving (met indien nodig een afbeelding)
-
-Hier een omschrijving van hoe het opgelost kan worden (met indien nodig een afbeelding)
-
-
-#### Titel nog een bevinding. 
-Hier korte omschrijving (met indien nodig een afbeelding)
-
-Hier een omschrijving van hoe het opgelost kan worden (met indien nodig een afbeelding)
-
-</details>
-
-
-
-
+ 
+#### achtergrond footer
+toen we de tests met de brillen deden was het contrast van de achtergrond van de pagina en de footer amper tot niet te zien. Ook ik heb hier tijdens het coderen wel eens last van gehad terwijl ik geen beperkingen heb. Ik weet niet of ik dit moet veranderen, want het is wel hun eigen stijl.
 
 ## Voortgang 3 (week 4)
 
