@@ -131,14 +131,10 @@ samen met je groepje opstellen
 ### Verslag van meeting
 hier na afloop snel de uitkomsten van de meeting vastleggen
 
-- sommige articles zijn sections
-- gebruik van em ipv %
-- meer var gebruiken
-- gebruik van a tag
-- nav als geheel maken
-- gebruik meer h ipv p
-- vinkjes als ul
-- time tag
+- punt 1
+- punt 2
+- nog een punt
+- ...
 </details>
 
 
@@ -153,14 +149,13 @@ hier na afloop snel de uitkomsten van de meeting vastleggen
 ### Bevindingen
 Lijst met je bevindingen die in de test naar voren kwamen:
 
-#### Engelse alt tekst (screen reader)
-Ik heb veel alt teksten in het engels (met indien nodig een afbeelding)
+#### Titel eerste bevinding
+Hier korte omschrijving (met indien nodig een afbeelding)
 
 Hier een omschrijving van hoe het opgelost kan worden (met indien nodig een afbeelding)
 
 
-#### Niet klikbaar
-contact, social media, top bar en productpagina's
+#### Titel tweede bevinding. 
 Hier korte omschrijving (met indien nodig een afbeelding)
 
 Hier een omschrijving van hoe het opgelost kan worden (met indien nodig een afbeelding)
@@ -176,13 +171,6 @@ Hier een omschrijving van hoe het opgelost kan worden (met indien nodig een afbe
 Hier korte omschrijving (met indien nodig een afbeelding)
 
 Hier een omschrijving van hoe het opgelost kan worden (met indien nodig een afbeelding)
- 
-Tests gedaan:
-Screen reader
-Muis en toetsenbord
-Visuele beperking
-Concentratieproblemen
-Spasmes
 
 </details>
 
