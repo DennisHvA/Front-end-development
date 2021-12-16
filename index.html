@@ -13,37 +13,52 @@
 	<link rel="stylesheet" href="https://use.typekit.net/vno1dop.css">
 	
 </head>
-<body>
+<body class="pagina1">
 	<header>
 		<!-- delivery -->
-		<p>Nu besteld, morgen <time>19 november</time> gratis in huis</p>
+		<p>Nu besteld, morgen <time datetime="12-15">15 december</time> gratis in huis</p>
 		
 		<!-- top bar -->
 		<section>
 			<img src="./images/logo-debijenkorf-christmas.gif" alt="logo in kertsthema">
 			
 			<ul>
-				<li><img src="./images/iconen/Mijn account.svg" alt="mijn account"></li>
-				<li><img src="./images/iconen/Verlanglijst.svg" alt="verlanglijstje"></li>
+				<li><img src="./images/iconen/Mijn-account.svg" alt="mijn account"></li>
+				<li>
+					<section>
+						<img src="./images/iconen/Verlanglijst.svg" alt="verlanglijstje">
+						<p id="counter">0</p>
+					</section>
+				</li>
 				<li><img src="./images/iconen/Winkelmand.svg" alt="winkelmand"></li>
 			</ul>
 		</section>
+			
+		<section>
+			<!-- menu -->
+			<section id="hamburger">
+				<img src="./images/menu.png" alt="hamburger menu">
+				<p>menu</p>
+			</section>
 
-		<!-- search -->
-		<form action="">
-			<input type="search" name="search" id="search" placeholder="Waar ben je naar op zoek?">
-			<button type="submit"><img src="./images/iconen/search.svg" alt=""></button>
-		</form>
-
-		<!-- menu -->
-		<nav>
-
+			<!-- search -->
+			<form action="search">
+				<input type="search" name="search" id="search" placeholder="Waar ben je naar op zoek?">
+				<button type="submit"><img src="./images/iconen/search.svg" alt=""></button>
+			</form>
+		</section>
+		<nav id="menu">
+			<img src="./images/iconen/close.svg" alt="hamburger menu sluiten" id="close">
+			<ul>
+				<li><a href="#">Kleding</a></li>
+				<li><a href="#">Schoenen</a></li>
+			</ul>
 		</nav>
 	</header>
 	
 	<main>
 		<!-- help -->
-		<button><img src="./images/iconen/berichtfixed.svg" alt="help"></button>
+		<button><img src="./images/iconen/berichtfixed.svg" alt="link chatfunctie"></button>
 
 		<section>
 			<h1>T-shirts voor heren</h1>
@@ -51,49 +66,50 @@
 		</section>
 		
 		<!-- categories -->
-		<section>
-			<button>longsleeves</button>
-			<button>ondershirts</button>
-		</section>
+		<ul>
+			<li><button>Basic T-shirts</button></li>
+			<li><button>Longsleeves</button></li>
+			<li><button>Ondershirts</button></li>
+		</ul>
 		<button>Filter & sorteer</button>
 
 		<!-- grid -->
 		<section>
 			<!-- item -->
 			<article>
-				<h2>Daily paper</h2>
-				<p>alias t-shirt met logoborduring</p>
+				<a href="./product.html"><h2>Daily Paper</h2></a>
+				<p>Amsterdam Flagship Store T-shirt met backprint</p>
 				<p>50,-</p>
 				<section>
-					<button><img src="./images/iconen/Verlanglijst.svg" alt="verlanglijstje"></button>
+					<button id="heart"><img src="./images/iconen/Verlanglijst.svg" alt="toevoegen aan verlanglijstje"></button>
 					<img src="./images/product-zero.jpeg" alt="daily paper shirt">
 					<p>bestseller</p>
 				</section>
 				
 				<!-- variants -->
 				<section>
-					<img src="./images/product-variant-wit.jpeg" alt="wit shirt">
-					<img src="./images/product-variant-zwart.jpeg" alt="zwart shirt">
-					<img src="./images/product-variant-grijs.jpeg" alt="grijs shirt">
+					<img src="./images/product-variant-wit.jpeg" alt="variant wit shirt">
+					<img src="./images/product-variant-zwart.jpeg" alt="variant zwart shirt">
+					<img src="./images/product-variant-grijs.jpeg" alt="variant grijs shirt">
 				</section>
 			</article>
 
 			<!-- item -->
 			<article>
-				<h2>Daily paper</h2>
-				<p>alias t-shirt met logoborduring</p>
+				<a href="./product.html"><h2>Calvin Klein</h2></a>
+				<p>Classic basic T-shirt met logoband</p>
 				<p>50,-</p>
 				<section>
-					<button><img src="./images/iconen/Verlanglijst.svg" alt="verlanglijstje"></button>
-					<img src="./images/product-zero.jpeg" alt="daily paper shirt">
+					<button><img src="./images/iconen/Verlanglijst.svg" alt="toevoegen aan verlanglijstje"></button>
+					<img src="./images/calvin.jpg" alt="daily paper shirt">
 					<p>bestseller</p>
 				</section>
 				
 				<!-- variants -->
 				<section>
-					<img src="./images/product-variant-wit.jpeg" alt="wit shirt">
-					<img src="./images/product-variant-zwart.jpeg" alt="zwart shirt">
-					<img src="./images/product-variant-grijs.jpeg" alt="grijs shirt">
+					<img src="./images/product-variant-wit.jpeg" alt="variant wit shirt">
+					<img src="./images/product-variant-zwart.jpeg" alt="variant zwart shirt">
+					<img src="./images/product-variant-grijs.jpeg" alt="variant grijs shirt">
 				</section>
 			</article>
 		</section>
@@ -135,42 +151,42 @@
 		<section>
 			<h3>ELKE DAG BEREIKBAAR TUSSEN 08.00 - 24.00 UUR.</h3>
 			<section>
-				<img src="./images/iconen/chat.svg" alt="chat">
-				<img src="./images/iconen/phone.svg" alt="telefoon">
-				<img src="./images/iconen/whatsapp.svg" alt="whatsapp">
-				<img src="./images/iconen/facebook.svg" alt="facebook">
-				<img src="./images/iconen/twitter.svg" alt="twitter">
+				<a href="#"><img src="./images/iconen/chat.svg" alt="link chatfunctie"></a>
+				<a href="#"><img src="./images/iconen/phone.svg" alt="link bellen met telefoon"></a>
+				<a href="#"><img src="./images/iconen/whatsapp.svg" alt="link whatsapp"></a>
+				<a href="#"><img src="./images/iconen/facebook.svg" alt="link facebook"></a>
+				<a href=""><img src="./images/iconen/twitter.svg" alt="link twitter"></a>
 			</section>
 		</section>
 
 		<!-- options-->
 		<section>
-			<img src="./images/iconen/ideal.svg" alt="ideal">
-			<img src="./images/iconen/mastercard.svg" alt="mastercard">
-			<img src="./images/iconen/visa.svg" alt="visa">
-			<img src="./images/iconen/paypal.svg" alt="paypal">
-			<img src="./images/iconen/americanexpress.svg" alt="american express">
-			<img src="./images/iconen/postnl.svg" alt="postnl">
-			<img src="./images/iconen/dhl.svg" alt="dhl">
+			<img src="./images/iconen/ideal.svg" alt="afbeelding ideal">
+			<img src="./images/iconen/mastercard.svg" alt="afbeelding mastercard">
+			<img src="./images/iconen/visa.svg" alt="afbeelding visa">
+			<img src="./images/iconen/paypal.svg" alt="afbeelding paypal">
+			<img src="./images/iconen/americanexpress.svg" alt="afbeelding american express">
+			<img src="./images/iconen/postnl.svg" alt="afbeelding postnl">
+			<img src="./images/iconen/dhl.svg" alt="afbeelding dhl">
 		</section>
 
 		<!-- about -->
 		<section>
 			<section>
 				<p>Klantenservice</p>
-				<img src="./images/iconen/arrow-down.svg" alt="arrow down">
+				<img src="./images/iconen/arrow-down.svg" alt="icoon pijl naar beneden">
 			</section>
 			<section>
 				<p>Winkels</p>
-				<img src="./images/iconen/arrow-down.svg" alt="arrow down">
+				<img src="./images/iconen/arrow-down.svg" alt="icoon pijl naar beneden">
 			</section>
 			<section>
 				<p>Ontdek</p>
-				<img src="./images/iconen/arrow-down.svg" alt="arrow down">
+				<img src="./images/iconen/arrow-down.svg" alt="icoon pijl naar beneden">
 			</section>
 			<section>
 				<p>de Bijenkorf</p>
-				<img src="./images/iconen/arrow-down.svg" alt="arrow down">
+				<img src="./images/iconen/arrow-down.svg" alt="icoon pijl naar beneden">
 			</section>
 		</section>
 
@@ -178,11 +194,11 @@
 		<section>
 			<!-- social media -->
 			<section>
-				<img src="./images/iconen/twitter.svg" alt="twitter">
-				<img src="./images/iconen/pinterest.svg" alt="pinterest">
-				<img src="./images/iconen/youtube.svg" alt="youtube">
-				<img src="./images/iconen/facebook.svg" alt="facebook">
-				<img src="./images/iconen/instagram.svg" alt="instagram">
+				<img src="./images/iconen/twitter.svg" alt="icoon twitter">
+				<img src="./images/iconen/pinterest.svg" alt="icoon pinterest">
+				<img src="./images/iconen/youtube.svg" alt="icoon youtube">
+				<img src="./images/iconen/facebook.svg" alt="icoon facebook">
+				<img src="./images/iconen/instagram.svg" alt="icoon instagram">
 			</section>
 
 			<!-- info -->

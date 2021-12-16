@@ -132,10 +132,10 @@ samen met je groepje opstellen
 hier na afloop snel de uitkomsten van de meeting vastleggen
 
 - nav maken
-- geen buttons maar a
-- geen %
+- buttons naar a 
+- % / em
 - time tag
-- list in de footer
+- list in footer
 </details>
 
 
@@ -150,16 +150,22 @@ hier na afloop snel de uitkomsten van de meeting vastleggen
 ### Bevindingen
 Lijst met je bevindingen die in de test naar voren kwamen:
 
-#### alt tekst
+#### Alt tekst
 Ik heb veel engelse teksten gebruikt terwijl het een nederlandse pagina wordt dus ja... In het engels werken gaat voor mij makkelijker dus hier had ik niet over nagedacht. Dus ik ga nog langs alle alt teksten.
 
 
-#### Geen knoppen of links 
+#### Geen knoppen of links. 
 De screenreader las bijvoorbeeld het winkelmandje als een list item dus dit moet ik gaan veranderen. Ook bij social media iconen en manieren om contact te zoeken las hij deze als list item. Ook kwam ik erachter dat hij elk artikel wel goed uitleest en ook op de goede volgorde, alleen gaf hij niet aan dat je erop kon klikken. Dus hier moet ook nog een a omheen gewrapt worden
 
- 
-#### achtergrond footer
+
+#### Achtergrond footer 
 toen we de tests met de brillen deden was het contrast van de achtergrond van de pagina en de footer amper tot niet te zien. Ook ik heb hier tijdens het coderen wel eens last van gehad terwijl ik geen beperkingen heb. Ik weet niet of ik dit moet veranderen, want het is wel hun eigen stijl.
+
+</details>
+
+
+
+
 
 ## Voortgang 3 (week 4)
 
@@ -168,8 +174,9 @@ toen we de tests met de brillen deden was het contrast van de achtergrond van de
 
 ### Stand van zaken
 Ik loop op dit moment een beetje achter. De eerste pagina is bijna klaar. Ik moet nog een paar kleine dingen stylen, elementen veranderen en de nav maken. Voor de 2e pagina heb ik alleen de html en nog niet de styling.
- 
-<img src="images/voortgang_week3.png" width="375px" alt="breakdown van nog een dynamisch deel">
+
+<img src="images/voortgang-3.png" width="375px" alt="breakdown van nog een dynamisch deel">
+
 
 
 ### Agenda voor meeting
@@ -177,18 +184,17 @@ samen met je groepje opstellen
 
 | student 1      | student 2          | student 3    | student 4        |
 | ---            | ---                | ---          | ---              |
-| slider?        | en dit             | en ik dit    | en dan ik dat    |
-|                | dit als er tijd is | nog een punt | dit wil ik zeker |
+| dit bespreken  | en dit             | en ik dit    | en dan ik dat    |
+| en dat ook nog | dit als er tijd is | nog een punt | dit wil ik zeker |
 | ...            | ...                | ...          | ...              |
 
 
 ### Verslag van meeting
 hier na afloop snel de uitkomsten van de meeting vastleggen
 
-- punt 1
-- punt 2
-- nog een punt
-- ...
+- afmaken pagina 1
+- beginnen pagina 2
+- slider?
 
 </details>
 
@@ -202,11 +208,14 @@ hier na afloop snel de uitkomsten van de meeting vastleggen
 <summary>uitwerken voor eindgesprek</summary>
 
 ### Stand van zaken
-hier dit ging goed & dit was lastig (neem ook screenshots op van delen van je website en code)
+Ik denk dat ik nu een heel eind ben met de site. Enkele content staat nog niet in zijn geheeld in de pagina's, maar bijna alles wel. Het ging best goed, ik vond het wel leuk maar soms ook wel lastig. Dingen waar ik nog niet ben uitgekomen zijn sommige positiong van elementen en ruimte ertussen.
 
 ### Screenshot(s)
 
-hier screenshot(s) van je eindresultaat
+<img src="images/voortgang4-1.png" width="375px" alt="breakdown van nog een dynamisch deel">
+
+<img src="images/voortgang4-2.png" width="375px" alt="breakdown van nog een dynamisch deel">
+
 
 </details>
 
@@ -221,8 +230,10 @@ hier screenshot(s) van je eindresultaat
 
 Nb. Wees specifiek ('css-tricks' als bron is bijv. niet specifiek genoeg).
 
-1. bron 1
-2. bron 2
-3. ...
+1. https://codepen.io/baselakasha/pen/RZybYe?editors=0010
+2. https://codepen.io/shooft/pen/zYzdMwO
+3. https://stuffandnonsense.co.uk/blog/redesigning-your-product-and-website-for-dark-mode
+4. https://codepen.io/shooft/pen/eYRdEPm?editors=1100
+5. https://codepen.io/shooft/pen/mdwroZE
 
 </details>
